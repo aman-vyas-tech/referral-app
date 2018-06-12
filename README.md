@@ -21,9 +21,18 @@ Pull this  again
 
 #cOMMIT6 
 
+<<<<<<<<< saved version
 aGAIN 
 >>>>>>> 6ff53b28f3d3de5c5305ae837ed31ffb9cc89f9f
 
 
 #Comit 6
 Let pull one lsdt time 
+=========
+aGAIN
+>>>>>>>>> local version
+
+
+# Commit 7 
+
+Pull this again 4
