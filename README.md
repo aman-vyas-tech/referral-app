@@ -12,5 +12,18 @@ Made changes
 
 Pull this 
 
+<<<<<<< HEAD
 
 Committting Something Aman
+=======
+#commit 5 
+Pull this  again
+
+#cOMMIT6 
+
+aGAIN 
+>>>>>>> 6ff53b28f3d3de5c5305ae837ed31ffb9cc89f9f
+
+
+#Comit 6
+Let pull one lsdt time 
